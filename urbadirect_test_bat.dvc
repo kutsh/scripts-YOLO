@@ -1,0 +1,6 @@
+outs:
+- md5: 58b1e67ecc339e13675298ae76e47067.dir
+  size: 26633924
+  nfiles: 84
+  hash: md5
+  path: urbadirect_test_bat

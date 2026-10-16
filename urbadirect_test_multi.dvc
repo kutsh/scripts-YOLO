@@ -1,0 +1,6 @@
+outs:
+- md5: 3f661975752982ee94a89c7a261a57d0.dir
+  size: 32689298
+  nfiles: 135
+  hash: md5
+  path: urbadirect_test_multi

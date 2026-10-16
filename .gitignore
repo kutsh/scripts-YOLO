@@ -1,0 +1,21 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+/metropole_test
+/metropole_test_multi
+/synth_test_1000_parcelle
+/urbadirect_test
+/urbadirect_test_bat
+/urbadirect_test_multi
+/runs
+
+uv.lock
+.python-version
+/multi_synth_test

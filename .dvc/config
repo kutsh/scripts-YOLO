@@ -1,0 +1,9 @@
+[core]
+    remote = kutsh
+    analytics = false
+[cache]
+    type = "reflink,copy"
+['remote "kutsh"']
+    url = s3://kutsh-dvc/
+    endpointurl = https://fsn1.your-objectstorage.com
+    region = fsn1

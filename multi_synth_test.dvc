@@ -1,0 +1,6 @@
+outs:
+- md5: d973b3ebb1d9396ff75a24a9a94ae83d.dir
+  size: 2706282669
+  nfiles: 2002
+  hash: md5
+  path: multi_synth_test

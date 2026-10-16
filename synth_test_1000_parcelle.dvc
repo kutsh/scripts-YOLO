@@ -1,0 +1,6 @@
+outs:
+- md5: 9db10c189db3c717b53d75b9d308205f.dir
+  size: 873825486
+  nfiles: 2202
+  hash: md5
+  path: synth_test_1000_parcelle

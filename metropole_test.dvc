@@ -1,0 +1,6 @@
+outs:
+- md5: 1a1037f22257d719f4bdd399ff41baff.dir
+  size: 72812317
+  nfiles: 40
+  hash: md5
+  path: metropole_test
